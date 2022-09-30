@@ -1,11 +1,11 @@
-# Оптимизация производственных расходов на металлургическом комбинате
+# Optimization of production costs at a metallurgical plant
 
-*Чтобы оптимизировать производственные расходы, металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали. Нужно построить модель, которая предскажет температуру стали.*
+*In order to optimize production costs, the metallurgical plant OOO "Tak Temper Steel" decided to reduce electricity consumption at the stage of steel processing. We need to build a model that predicts the temperature of the steel.*
 
-## Описания проекта
+## Project descriptions
 
 
 
-| Название проекта | Описание | Используемые библиотеки | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Оптимизация производственных расходов](borrowers_reliability) |Модель которая предскажет температуру стали | *pandas, sklearn, catboost, numpy, lightgbm, xgboost, matplotlib, seaborn, warnings, tqdm, seaborn* |
+| Project name | Description | Used Libraries |
+| :--------------------- | :--------------------- | :--------------------- |
+| [Optimization of production costs](borrowers_reliability) | Model that predicts steel temperature | *pandas, sklearn, catboost, numpy, lightgbm, xgboost, matplotlib, seaborn, warnings, tqdm, seaborn* |
