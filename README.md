@@ -8,4 +8,4 @@
 
 | Project name | Description | Used Libraries |
 | :--------------------- | :--------------------- | :--------------------- |
-| [Optimize Production Costs]([docs/optimize-production-costs.ipynb](https://github.com/limenbah/optimize-production-costs/blob/main/optimize-production-costs/optimize-production-costs.ipynb)) | Model that predicts steel temperature | *pandas, sklearn, catboost, numpy, lightgbm, xgboost, matplotlib, seaborn, warnings, tqdm, seaborn* |
+| [Optimize Production Costs](https://github.com/limenbah/optimize-production-costs/blob/main/optimize-production-costs/optimize-production-costs.ipynb) | Model that predicts steel temperature | *pandas, sklearn, catboost, numpy, lightgbm, xgboost, matplotlib, seaborn, warnings, tqdm, seaborn* |
