@@ -8,4 +8,4 @@
 
 | Project name | Description | Used Libraries |
 | :--------------------- | :--------------------- | :--------------------- |
-| [optimize-production-costs](borrowers_reliability) | Model that predicts steel temperature | *pandas, sklearn, catboost, numpy, lightgbm, xgboost, matplotlib, seaborn, warnings, tqdm, seaborn* |
+| [Optimize Production Costs](docs/optimize-production-costs.ipynb) | Model that predicts steel temperature | *pandas, sklearn, catboost, numpy, lightgbm, xgboost, matplotlib, seaborn, warnings, tqdm, seaborn* |
